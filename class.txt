@@ -1,0 +1,1 @@
+this is a classs for the new variable creation
